@@ -1,5 +1,5 @@
 #! /bin/bash
-echo "Installing NVIDIA Cuda v495 toolkit"
+echo "\nInstalling NVIDIA Cuda v495 toolkit\n"
 
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-ubuntu2004.pin
 
