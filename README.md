@@ -1,4 +1,5 @@
 # NVIDIA Cuda Toolkit Autoinstaller
+## Only usable on Debian and Ubuntu based distributions!
 ## Usage
 
 ```
